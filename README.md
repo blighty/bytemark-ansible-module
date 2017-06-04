@@ -1,1 +1,3 @@
-# bytemark-ansible-module
+# Build dependencies:
+* docker
+* pip

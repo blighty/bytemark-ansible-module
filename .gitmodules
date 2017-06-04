@@ -1,0 +1,6 @@
+[submodule "tools/swagger-codegen"]
+	path = tools/swagger-codegen
+	url = https://github.com/swagger-api/swagger-codegen.git
+[submodule "specs"]
+	path = specs
+	url = git@github.com:blighty/bytemark-api-specs.git
